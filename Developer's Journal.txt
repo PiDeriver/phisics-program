@@ -1,0 +1,27 @@
+Developer's Journal
+
+Kevin Sikes
+
+Chronicles of a salty researcher and programmer.
+
+2/5/2016
+
+Found out by a YAHOO post that the apps are in something called z80 Assembly. It also said that I need the SDK from Texas Instruments to make apps. Several
+ of the links didn't work. Only one that did led to a tutorial for the wrong calculator.
+
+TI 84 “source developer’s kit” (https://education.ti.com/en-GB/uk/products/software-development-kits-sdk)
+THER IS NO SDK FOR IT! JUST A DOWNLOAD FOR A GUIDE! SSSSSSSSSSAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLTTTTTTTTTTTTT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I wasted an hour to find this out and looking for a download from multiple websites.
+
+Have to make program and use BASIC converter. It might be interesting to learn how to use BASIC.
+
+The program can be done on calculator or using an emulator, but of course THERE IS NO SIMPLE WAY TO GET THE OS!!!!!!
+Ok. I can get the OS by using a program to copy it from a calculator.
+
+(http://www.ticalc.org/archives/files/fileinfo/321/32127.html) Link to basic builder
+
+(http://tibasicdev.wikidot.com/basicbuilder) Link for tutorials and help
+
+Can also be programed in assembly (http://wikiti.brandonw.net/index.php?title=84PCSE:OS:Applications)
+
+I also started working on figuring out how to move files using Java.

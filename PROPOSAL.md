@@ -22,9 +22,9 @@ the case.
 
 | Date          | Deliverable   |
 | ------------- | ------------- |
-| February 26   | Deliverable 1 |basic app base done
-| April 1       | Deliverable 2 |basic app with gui done. start working on installer
-| April 29      | Deliverable 3 |app, installer, and might add more sub-programs if there is time, like polar to rectangular, other formulas, etc.
+| February 26   | basic program base started. file mover started. ideas for the app gui.|
+| April 1       | basic app with gui close to done. file mover close to finished |
+| April 29      | app with gui and mover finished, and might add more sub-programs if there is time, like polar to rectangular, other formulas, etc.|
 
 ## Reality Check
 I would need at least cheap laptop (rasberry pi works). that will be somewhat expensive (Pi-$30,moniter+keyboard+mouse set-$120). I don't 

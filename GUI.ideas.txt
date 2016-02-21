@@ -6,7 +6,7 @@ ___________________________
 |3:WAVES                  |
 |4:ROTATIONAL KINEMATICS  |
 |5:POLAR TO RECTANGULAR   |
-|                         |
+|6:QUIT                   |
 |                         |
 |_________________________|
 

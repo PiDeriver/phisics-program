@@ -37,3 +37,12 @@ didn't like the file, or the calculator didn't like the file. Basicaly, lots of 
 south, I could possibly just try to shove all of the programs into one with LOTS of Gotos and, if possible for programs, I will try to add 
 a GUI. But I will most likely will be able to make things work with enough reaserching. One thing that might have to happen is that I find 
 a way to force the transfer. If worst comes to worst with that part, I can have a backup of the calculator ready if it compleatly breaks.
+
+2/21/16
+
+I found an online BASIC editor that allows you to select the calculator type. It can make program files but not app files. It can create
+AppVar files for storing variables for later use and can't be changed without being edited, which could be useful. My best bet is using the
+BASIC editor I found already, but i am still not sure how to make it work properly. I have started creating the program and the auto
+-installer / File Mover. The only problem that I am currently having is trying to figure out how the file should be formated when outputed 
+by the builder, and where to move the file. the calculator didn't show up in the file explorer, so I am going to have to try and research 
+that.

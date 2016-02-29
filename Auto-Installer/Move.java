@@ -7,7 +7,7 @@ import java.nio.file.*;
  * This will automatically move the app to someone's calculator when run
  * 
  * @author Kevin Sikes
- * @version (a version number or a date)
+ * @version 2/18/16
  */
 public class Move
 {

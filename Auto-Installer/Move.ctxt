@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Move()
+comment0.text=\r\n\ receives\ input\ from\ user\ to\ find\ the\ location\ of\ the\ documents\ folder\r\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ physics\ file\ MUST\ be\ in\ Documents\ folder\ to\ work\r\n\ moves\ the\ file\ to\ the\ calculator\r\n\ currently\:\ copies\ the\ file\ from\ documents\ to\ desctop\r\n\ TODO\:\ have\ it\ copy\ the\ file\ to\ the\ calculator,\ need\ to\ find\ out\ how\ to\ acess\ calculator\ and\ where\ to\ put\ file\r\n
+numComments=2

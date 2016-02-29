@@ -46,3 +46,11 @@ BASIC editor I found already, but i am still not sure how to make it work proper
 -installer / File Mover. The only problem that I am currently having is trying to figure out how the file should be formated when outputed 
 by the builder, and where to move the file. the calculator didn't show up in the file explorer, so I am going to have to try and research 
 that.
+
+2/18/16
+
+I haven't foun where the calculator is actually located yet, but I have figured out how to move files with java. I have also worked alot on
+the program itself. So far I have made around 6 menus and programed in formulas for kinematics, rotational kinematics, and the Range,
+momentum, and angular momentum equations also. I also have made formulas for kinetic energy and rotational kinetic energy. They all include
+units and breaks up the equation for the user to easly see what is going on. I also found that in the ti connect files, there are several 
+OS for several different calculators. It is coming along nicely now.

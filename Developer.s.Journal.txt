@@ -1,0 +1,64 @@
+﻿Developer's Journal
+
+Kevin Sikes
+
+Chronicles of a salty researcher and programmer.
+
+2/5/2016
+
+Found out by a YAHOO post that the apps are in something called z80 Assembly. It also said that I need the SDK from Texas Instruments to make apps. Several
+ of the links didn't work. Only one that did led to a tutorial for the wrong calculator.
+
+TI 84 “source developer’s kit” (https://education.ti.com/en-GB/uk/products/software-development-kits-sdk)
+THER IS NO SDK FOR IT! JUST A DOWNLOAD FOR A GUIDE! SSSSSSSSSSAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLTTTTTTTTTTTTT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I wasted an hour to find this out and looking for a download from multiple websites.
+
+Have to make program and use BASIC converter. It might be interesting to learn how to use BASIC.
+
+The program can be done on calculator or using an emulator, but of course THERE IS NO SIMPLE WAY TO GET THE OS!!!!!!
+Ok. I can get the OS by using a program to copy it from a calculator.
+
+(http://www.ticalc.org/archives/files/fileinfo/321/32127.html) Link to basic builder
+
+(http://tibasicdev.wikidot.com/basicbuilder) Link for tutorials and help
+
+Can also be programed in assembly (http://wikiti.brandonw.net/index.php?title=84PCSE:OS:Applications)
+
+I also started working on figuring out how to move files using Java.
+
+2/14/2016
+
+Apparently I am going to just have to program the app directly on my calculator. That won't be too dificult, but it will be anoying. This 
+is due to the dificulty of retriveing the OS from the calculator. I also started playing with the BASIC builder to conver programs into 
+apps. Apparently, what it actually does is you can put multiple programs with pictures into one app. I also need to figure out what the 
+picture format is for the calculator. And I need to do more research with the bulder, because when I tried to put the app on the calculator
+, it said it was imcompatible, even though it was the same format the other apps were in. Apparently either TI connect can't transfer apps,
+didn't like the file, or the calculator didn't like the file. Basicaly, lots of things don't like each other at the moment. If things go 
+south, I could possibly just try to shove all of the programs into one with LOTS of Gotos and, if possible for programs, I will try to add 
+a GUI. But I will most likely will be able to make things work with enough reaserching. One thing that might have to happen is that I find 
+a way to force the transfer. If worst comes to worst with that part, I can have a backup of the calculator ready if it compleatly breaks.
+
+2/21/16
+
+I found an online BASIC editor that allows you to select the calculator type. It can make program files but not app files. It can create
+AppVar files for storing variables for later use and can't be changed without being edited, which could be useful. My best bet is using the
+BASIC editor I found already, but i am still not sure how to make it work properly. I have started creating the program and the auto
+-installer / File Mover. The only problem that I am currently having is trying to figure out how the file should be formated when outputed 
+by the builder, and where to move the file. the calculator didn't show up in the file explorer, so I am going to have to try and research 
+that.
+
+2/18/16
+
+I haven't found where the calculator is actually located yet, but I have figured out how to move files with java. I have also worked alot on
+the program itself. So far I have made around 6 menus and programed in formulas for kinematics, rotational kinematics, and the Range,
+momentum, and angular momentum equations also. I also have made formulas for kinetic energy and rotational kinetic energy. They all include
+units and breaks up the equation for the user to easly see what is going on. I also found that in the ti connect files, there are several 
+OS for several different calculators. It is coming along nicely now.
+
+3/6/16
+
+For some reason, but it could just by my cord, my calculator hates staying connected to my computer. I still need to find where the calculator 
+is located on the computer. The program is coming along nicely. I have added equations for force with their units. I have also made it so the 
+final units are displayed after the calculation, such as Newtons for force. I havn't had time to play around with the BASIC builder due to 
+homework and Norton. For some reason NOW it decides it is a threat and keept removing it. Didn't help my time situation. Made Norton stop so 
+I shouldn't have any more troubles with it. All I have left to do for formulas now is waves. After that everything is going to get VERY anoying.

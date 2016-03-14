@@ -62,3 +62,7 @@ is located on the computer. The program is coming along nicely. I have added equ
 final units are displayed after the calculation, such as Newtons for force. I havn't had time to play around with the BASIC builder due to 
 homework and Norton. For some reason NOW it decides it is a threat and keept removing it. Didn't help my time situation. Made Norton stop so 
 I shouldn't have any more troubles with it. All I have left to do for formulas now is waves. After that everything is going to get VERY anoying.
+
+3/14/16
+
+I started adding waves into the physics program. I added the v= f*lambda equation and just need to add units. I found a program online that will search for things plugged into my computer l, and I hope it can find the calculator. Then all I have to find out is how to take its output and insert it into the auto installer. I still need to figure out how to use the basic editor, but I haven't had much time.

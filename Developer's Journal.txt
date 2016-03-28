@@ -66,3 +66,7 @@ I shouldn't have any more troubles with it. All I have left to do for formulas n
 3/14/16
 
 I started adding waves into the physics program. I added the v= f*lambda equation and just need to add units. I found a program online that will search for things plugged into my computer l, and I hope it can find the calculator. Then all I have to find out is how to take its output and insert it into the auto installer. I still need to figure out how to use the basic editor, but I haven't had much time.
+
+3/28/16
+
+I har my wisdome theeth out last week, so I really didn't get much done. I found 2 lbl errors in the program, and other than adding the equations for magnitisum, it is close to done. I found out that apparently for the BASIC editor, you need to sign the file with the SDK. I am trying to read through their manual about the SDK they dont have for downloading trying to figure thind out. The people who made the texas instrumits website did a horrible job.

@@ -70,3 +70,7 @@ I started adding waves into the physics program. I added the v= f*lambda equatio
 3/28/16
 
 I har my wisdome theeth out last week, so I really didn't get much done. I found 2 lbl errors in the program, and other than adding the equations for magnitisum, it is close to done. I found out that apparently for the BASIC editor, you need to sign the file with the SDK. I am trying to read through their manual about the SDK they dont have for downloading trying to figure thind out. The people who made the texas instrumits website did a horrible job.
+
+4/2/16
+
+I can't really deal with all of these setbacks anymore. Trying to deal with texas instrumints and everything else is difficult. I am basically going to not make it into an app anymore, and I am not going to make the auto-intsaller. since it won't be an app, it will be easy to transfer using Ti-connect(one of the few things that isn't horrible to try and download) or just through calculators. To replace what i cannot do, I will be adding more to the program. I will try to make a Kircoff's law 3x3 circut solver. I already have the gui planed and the basic layout of what i am going to do, and included it as an instructions tab right by it. I still also need to add magnitisum to the program, and if there is time, I might look into thermal or optics. Judging by the time I might only be able to add 1 of them as extra or none at all if the solver is foing to take as long as i think it will.

@@ -24,7 +24,7 @@ the case.
 | ------------- | ------------- |
 | February 26   | basic program base started. file mover started. ideas for the app gui.|
 | April 1       | basic app with gui close to done. file mover close to finished |
-| April 29      | app with gui and mover finished, and might add more sub-programs if there is time, like polar to rectangular, other formulas, etc.|
+| April 29      | Program complete and possibly 3x3 circit solver and other things if there is time|
 
 ## Reality Check
 I would need at least cheap laptop (rasberry pi works). that will be somewhat expensive (Pi-$30,moniter+keyboard+mouse set-$120). I don't 

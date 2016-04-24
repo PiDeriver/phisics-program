@@ -86,3 +86,7 @@ have it partially working and focus on full 3x3 later.
 4/19/16
 
 Sorry that this is a little late. I have alot of things i needed to do. there really isn't much that happend programming wise. I started trying to just program a 2x2 curcit at INL, but then i started realizing the amount of edge cases that it has since resistors can face any way along with batteries and since BASIC is dumb, i can't do things like switch statements and have to have multiple large and nested if statemrnts to try and catch everything. right now it can tell you the ressistance of a circut with 4 resistors pointing in different directions as long as the first one points up or left with no batteries. 
+
+4/24/16
+
+I gave up on the 3x3 solver because it made the algorithum I was using at that time require over 100 if statements for a 2x2 circiut. I did make the 2x2 at least and getting rid of the other variables and such for the 3x3 really simplified the algorythum. There isn't too much left to do now. I will need to have several spell check run throughs, if you coulden't tell by reading this or the repository name. I might change how the instructions are displaied for the solver and app. I can fit alot more text on a graph than on the actual screen and probably shorten the code by alot of commas and ". I will have to make sure that the graph is cleaned afterwords. It might be a good idea to have a graph cleaner in the program to reset zoom, axies, and the background.

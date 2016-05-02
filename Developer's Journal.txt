@@ -90,3 +90,7 @@ Sorry that this is a little late. I have alot of things i needed to do. there re
 4/24/16
 
 I gave up on the 3x3 solver because it made the algorithum I was using at that time require over 100 if statements for a 2x2 circiut. I did make the 2x2 at least and getting rid of the other variables and such for the 3x3 really simplified the algorythum. There isn't too much left to do now. I will need to have several spell check run throughs, if you coulden't tell by reading this or the repository name. I might change how the instructions are displaied for the solver and app. I can fit alot more text on a graph than on the actual screen and probably shorten the code by alot of commas and ". I will have to make sure that the graph is cleaned afterwords. It might be a good idea to have a graph cleaner in the program to reset zoom, axies, and the background.
+
+5/1/16
+
+I worked a little on the collision finder, but it is still broken. I made a little money off of three people for the app already. a total of ten dollars. I also a a customer who is willing to do a little team up. He is Jacob, and he is going to work on editing the program so it will work on older calculators. Je isn't able to complete it before the AP test, but I am very certain that people will still want it for physics 2.

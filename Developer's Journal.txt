@@ -94,3 +94,7 @@ I gave up on the 3x3 solver because it made the algorithum I was using at that t
 5/1/16
 
 I worked a little on the collision finder, but it is still broken. I made a little money off of three people for the app already. a total of ten dollars. I also a a customer who is willing to do a little team up. He is Jacob, and he is going to work on editing the program so it will work on older calculators. Je isn't able to complete it before the AP test, but I am very certain that people will still want it for physics 2.
+
+5/9/16
+
+I think i forgot to talk about this, but i added an extras section to the program, including a graph fixer, default settings loader for the calculator, a list clearer, and a derivitive grapher. the last one i had added recently. I am unsure if i will get the collision solver ready in time, so i made sure that when the option is clicked, it will display "not implimented". i also went through the code and put in comments about the code, like currently used lbls, and what different things do. The way i did this was making sure that comments there will NEVER run  as code with gotos around them. I also made it so when you quit the program it will delete string variables too. I also added a lbl for the new optic equations and the new magnitisum porportion for transformers.
